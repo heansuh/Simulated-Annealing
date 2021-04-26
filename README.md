@@ -2,7 +2,7 @@
 
 This is a repository for seminar in SS2021 ELE HARDWARE / SOFTWARE CODESIGN.
 
-Task
+## Task
 
 • Each student will get a HLS algorithm and an example to show how the
 algorithm operates
@@ -16,7 +16,7 @@ algorithm operates
 • Everyone will write a report of his/her project part that will be a chapter of the final report
 
 
-Milestones paper
+## Milestones
 
 • April 28: raw sketch including bullet points, additional references
 
