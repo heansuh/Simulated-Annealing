@@ -14,3 +14,22 @@ algorithm operates
 • Setup a Github repository
 
 • Everyone will write a report of his/her project part that will be a chapter of the final report
+
+
+Milestones paper
+
+• April 28: raw sketch including bullet points, additional references
+
+• May 12: first version including main figures
+
+• May 26: first version including all input
+
+• June 9: polishing
+
+• June 23: deadline
+
+• Presentation
+
+• First week of July
+
+• 20 min talk + 10 min discussion 
