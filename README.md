@@ -4,7 +4,7 @@ This is a repository for seminar in SS2021 ELE HARDWARE / SOFTWARE CODESIGN, und
 
 ## Link
 
-- You can press [here](https://www.overleaf.com/3184126953dgwmmzcvgcgh).
+- You can press [here](https://www.overleaf.com/3184126953dgwmmzcvgcgh) to check the Overleaf LaTeX document.
 
 ## Task
 
