@@ -22,18 +22,14 @@ algorithm operates
 
 ## Milestones
 
-• April 28: raw sketch including bullet points, additional references
+- [ ] April 28: raw sketch including bullet points, additional references
 
-• May 12: first version including main figures
+- [ ] May 12: first version including main figures
 
-• May 26: first version including all input
+- [ ] May 26: first version including all input
 
-• June 9: polishing
+- [ ] June 9: polishing
 
-• June 23: deadline
+- [ ] June 23: deadline
 
-• Presentation
-
-• First week of July
-
-• 20 min talk + 10 min discussion 
+- [ ] Presentation: First week of July (20 min talk + 10 min discussion)
