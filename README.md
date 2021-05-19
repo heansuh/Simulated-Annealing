@@ -22,9 +22,9 @@ algorithm operates
 
 ## Milestones
 
-- [ X ] April 28: raw sketch including bullet points, additional references
+- [X] April 28: raw sketch including bullet points, additional references
 
-- [ ] May 12: first version including main figures
+- [X] May 12: first version including main figures
 
 - [ ] May 26: first version including all input
 
